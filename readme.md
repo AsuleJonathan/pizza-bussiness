@@ -3,7 +3,7 @@
 # 2/3/2020
 
 # LIVE LINK TO PROJECT
-https://einsteinelaim.github.io/Pizza-Shop-IP/
+https://asulejonathan.github.io/pizza-bussiness
 
 # Project Description
 This is a web app for  My Pizza Shop. It's comprised of a welcome note on the top of the site, an About Us section that follows it which includes descriptions of My Pizza Shop and what we do there.
@@ -29,12 +29,7 @@ As is, the project contains no known bugs.
 
 ### Technologies Used
 Technologies used include:
-HTML, Bootstrap, CSS, jQuery & Javascript.
-
-### Contact me on: einsteineliam@gmail.com
-I encourage anyone who has any contribution to make to this code to improve it do so. 
-Live link:https://github.com/EinsteinElaim/Pizza-Shop-IP/tree/Development
-
+HTML, Bootstrap, CSS, jQuery & Javascript
 
 ### License
 App is licenced by [MIT.licensing](LICENCE.txt)
